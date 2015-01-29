@@ -425,7 +425,7 @@ class Marketion_Api_Class {
         $replacement = '<table width="600" cellspacing="10" cellpadding="0" align="center" border="0">
                             <tr>
                                 <td>
-                                    <span style="color: #a9a9a9; font-size: 11px;">Вы получили это письмо, потому что являетесь клиентом компании deloshop.ru. Если Ваш адрес был добавлен по ошибке, пожалуйста, воспользуйтесь ссылкой <a href="%Link:Unsubscribe%"> отписаться</a>."</span>
+                                    <span style="color: #a9a9a9; font-size: 11px;">Вы получили это письмо, потому что являетесь клиентом нашей компании. Если Ваш адрес был добавлен по ошибке, пожалуйста, воспользуйтесь ссылкой <a href="%Link:Unsubscribe%"> отписаться</a>."</span>
                                 </td>
                             </tr>
                         </table></body>';
